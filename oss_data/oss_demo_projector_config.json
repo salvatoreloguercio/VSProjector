@@ -35,6 +35,16 @@
       "tensorPath": "oss_data/bnmt_enjako_interlingua_10k_1024_tensors.bytes",
       "metadataPath": "oss_data/bnmt_enjako_interlingua_10k_1024_metadata.tsv",
       "bookmarksPath": "oss_data/bnmt_enjako_interlingua_10k_1024_bookmarks.txt"
+    },
+    {
+      "tensorName": "VSP 548g with maps",
+      "tensorShape": [548, 2048],
+      "tensorPath": "oss_data/VSP_emb_548g.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta.tsv",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image.png",
+          "singleImageDim": [70, 60]
+      }
     }
   ],
   "modelCheckpointPath": "Demo datasets"
