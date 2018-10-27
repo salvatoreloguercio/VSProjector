@@ -4,11 +4,17 @@
       "tensorName": "VSP 548g with maps",
       "tensorShape": [548, 2048],
       "tensorPath": "oss_data/VSP_emb_548g.tsv",
-      "metadataPath": "oss_data/VSP_emb_548g_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv",
       "sprite": {
           "imagePath": "oss_data/sprite_image.png",
           "singleImageDim": [70, 60]
       }
+    },
+    {
+      "tensorName": "VSP 548g",
+      "tensorShape": [548, 2048],
+      "tensorPath": "oss_data/VSP_emb_548g.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv"
     }
   ],
   "modelCheckpointPath": "Demo datasets"
