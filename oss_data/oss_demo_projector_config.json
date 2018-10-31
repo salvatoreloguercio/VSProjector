@@ -18,5 +18,5 @@
       "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv"
     }
   ],
-  "modelCheckpointPath": "VSP datasets"
+  "modelCheckpointPath": "Demo datasets"
 }
