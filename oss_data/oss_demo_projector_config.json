@@ -5,7 +5,7 @@
       "tensorShape": [548, 2048],
       "tensorPath": "oss_data/VSP_emb_548g.tsv",
       "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv",
-      "bookmarksPath": "oss_data/PHATE_coords_bookmark.txt",
+      "bookmarksPath": "oss_data/PHATE_coords_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image.png",
           "singleImageDim": [70, 60]
