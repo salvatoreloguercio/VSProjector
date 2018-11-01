@@ -28,8 +28,6 @@
           "singleImageDim": [70, 60]
       }
     }
-
-
   ],
   "modelCheckpointPath": "Demo datasets"
 }
