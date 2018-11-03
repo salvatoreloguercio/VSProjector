@@ -30,7 +30,7 @@
     },
 
     {
-      "tensorName": "VSP 548g AD LOAD",
+      "tensorName": "VSP 550g LOAD greyout",
       "tensorShape": [550, 2048],
       "tensorPath": "oss_data/VSP_emb_550g_LOAD.tsv",
       "metadataPath": "oss_data/VSP_emb_550g_LOAD_meta.tsv",
@@ -39,7 +39,18 @@
           "imagePath": "oss_data/sprite_image_AD_LOAD_greyout.png",
           "singleImageDim": [70, 60]
       }
-    }    
+    }, 
+    {
+      "tensorName": "VSP 550g LOAD all",
+      "tensorShape": [550, 2048],
+      "tensorPath": "oss_data/VSP_emb_550g_LOAD.tsv",
+      "metadataPath": "oss_data/VSP_emb_550g_LOAD_meta.tsv",
+      "bookmarksPath": "oss_data/PHATE_coords_LOAD_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_AD_LOAD.png",
+          "singleImageDim": [70, 60]
+      }
+    }
   ],
   "modelCheckpointPath": "Demo datasets"
 }
