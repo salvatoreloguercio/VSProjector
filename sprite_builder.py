@@ -4,7 +4,7 @@
 from PIL import Image
 import math
 
-test_image_list = '/Users/sal/projects/BalchLab/grants/VSP_emb_550g_LOAD_spritelist.tsv'#'/Users/sal/projects/BalchLab/GenerativeVSP/2018-09-04/VSP_emb_548g_spritelist.tsv' # path to the image list
+test_image_list = '/Users/sal/projects/BalchLab/GenerativeVSP/2018-09-04/VSP_emb_548g_spritelist.tsv' # path to the image list
 with open(test_image_list, 'r') as f:
     test_images = f.readlines()
     test_images = map(str.strip, test_images)
@@ -28,7 +28,7 @@ for i in range(len(test_images)):
     big_image.paste(img, (col_loc, row_loc)) # NOTE: the order is reverse due to PIL saving
     print(row_loc, col_loc)
 
-big_image.save('sprite_image_AD_greyout.png')#, transparency=0)
+big_image.save('sprite_image_551g.png')#, transparency=0)
 
 
 
