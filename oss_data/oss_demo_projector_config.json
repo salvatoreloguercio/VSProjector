@@ -57,6 +57,8 @@
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
       "metadataPath": "oss_data/VSP_emb_551g_GWAS_meta.tsv",
       "bookmarksPath": "oss_data/PHATE_coords_GWAS_bookmarks.txt",
+      "bookmarksPath": "oss_data/UMAP_coords_GWAS_bookmarks.txt",
+      "bookmarksPath": "oss_data/DDRTree_coords_GWAS_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g.png",
           "singleImageDim": [70, 60]
