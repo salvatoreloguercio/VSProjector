@@ -1,0 +1,67 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "VSP 548g with maps",
+      "tensorShape": [548, 2048],
+      "tensorPath": "oss_data/VSP_emb_548g.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv",
+      "bookmarksPath": "oss_data/PHATE_coords_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image.png",
+          "singleImageDim": [70, 60]
+      }
+    },
+    {
+      "tensorName": "VSP 548g",
+      "tensorShape": [548, 2048],
+      "tensorPath": "oss_data/VSP_emb_548g.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv"
+    },
+    {
+      "tensorName": "VSP 548g AD",
+      "tensorShape": [548, 2048],
+      "tensorPath": "oss_data/VSP_emb_548g.tsv",
+      "metadataPath": "oss_data/VSP_emb_548g_meta_annot.tsv",
+      "bookmarksPath": "oss_data/PHATE_coords_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_AD_greyout.png",
+          "singleImageDim": [70, 60]
+      }
+    },
+
+    {
+      "tensorName": "VSP 550g LOAD greyout",
+      "tensorShape": [550, 2048],
+      "tensorPath": "oss_data/VSP_emb_550g_LOAD.tsv",
+      "metadataPath": "oss_data/VSP_emb_550g_LOAD_meta.tsv",
+      "bookmarksPath": "oss_data/PHATE_coords_LOAD_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_AD_LOAD_greyout.png",
+          "singleImageDim": [70, 60]
+      }
+    }, 
+    {
+      "tensorName": "VSP 550g LOAD all",
+      "tensorShape": [550, 2048],
+      "tensorPath": "oss_data/VSP_emb_550g_LOAD.tsv",
+      "metadataPath": "oss_data/VSP_emb_550g_LOAD_meta.tsv",
+      "bookmarksPath": "oss_data/PHATE_coords_LOAD_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_AD_LOAD.png",
+          "singleImageDim": [70, 60]
+      }
+    },
+    {
+      "tensorName": "VSP 551g GWAS",
+      "tensorShape": [551, 2048],
+      "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "bookmarksPath": "oss_data/combined_bookmarks.txt",
+      "sprite": {
+          "imagePath": "oss_data/sprite_image_551g.png",
+          "singleImageDim": [70, 60]
+      }
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
