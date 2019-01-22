@@ -4,7 +4,7 @@
       "tensorName": "VSP 551g AD crowdsourced",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_AD_cs_greyout.png",
@@ -15,7 +15,7 @@
       "tensorName": "VSP 551g AD all",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_AD_all_greyout.png",
@@ -26,7 +26,7 @@
       "tensorName": "VSP 551g AD GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_AD_gwas_greyout.png",
@@ -37,7 +37,7 @@
       "tensorName": "VSP 551g T2D GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_T2D_greyout.png",
@@ -48,7 +48,7 @@
       "tensorName": "VSP 551g CAD GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_CAD_greyout.png",
@@ -59,7 +59,7 @@
       "tensorName": "VSP 551g AF GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_AF_greyout.png",
@@ -70,7 +70,7 @@
       "tensorName": "VSP 551g CHD GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_CHD_greyout.png",
@@ -81,7 +81,7 @@
       "tensorName": "VSP 551g CAC GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_CAC_greyout.png",
@@ -92,7 +92,7 @@
       "tensorName": "VSP 551g PAD GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_PAD_greyout.png",
@@ -103,7 +103,7 @@
       "tensorName": "VSP 551g MI GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_cardio_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g_MI_greyout.png",
@@ -114,7 +114,7 @@
       "tensorName": "VSP 551g GWAS",
       "tensorShape": [551, 2048],
       "tensorPath": "oss_data/VSP_emb_551g_LOAD.tsv",
-      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta.tsv",
+      "metadataPath": "oss_data/VSP_emb_551g_GWAS_Louvain_meta2.tsv",
       "bookmarksPath": "oss_data/combined_bookmarks.txt",
       "sprite": {
           "imagePath": "oss_data/sprite_image_551g.png",
